@@ -1,0 +1,7 @@
+---
+description: Use to reference the project architecture or whenever you make structural changes
+alwaysApply: false
+---
+This project uses FastAPI for the backend and SQLite for the database. The frontend is a simple HTML/CSS/JavaScript website.
+
+Whenever you modify the project structure, update architecture.md file to reflect the changes.
